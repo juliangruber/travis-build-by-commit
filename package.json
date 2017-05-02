@@ -1,6 +1,6 @@
 {
   "name": "travis-build-by-commit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "juliangruber/travis-build-by-commit",
   "description": "Fetch the travis build for given commit sha",
